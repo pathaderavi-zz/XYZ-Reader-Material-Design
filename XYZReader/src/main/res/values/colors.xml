@@ -23,4 +23,11 @@
     <color name="theme_accent">#04561A</color>
     <color name="ltgray">#ffe0e0e0</color>
     <color name="happy_yello">#FFCC00</color>
+    <color name="articleBodyTextColor">#000</color>
+    <color name="headlineBarTextColor">#fff</color>
+    <color name="appBarColor">#ff6666</color>
+    <color name="fragmentBackground">#c0c3c3</color>
+    <color name="listItemBackground">#a6d7df</color>
+    <color name="text1List">#020</color>
+    <color name="text2List">#102</color>
 </resources>
