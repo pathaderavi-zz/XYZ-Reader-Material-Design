@@ -17,6 +17,7 @@ import java.util.Date;
 import java.util.GregorianCalendar;
 
 import android.os.Bundle;
+import android.support.design.widget.Snackbar;
 import android.support.v4.app.ShareCompat;
 import android.support.v7.graphics.Palette;
 import android.text.Html;
@@ -283,6 +284,8 @@ public class ArticleDetailFragment extends Fragment implements
         }
 
         bindViews();
+        final Snackbar snackbar = Snackbar.make(mRootView,"Article Loaded",Snackbar.LENGTH_SHORT);
+        snackbar.show();
     }
 
     @Override
