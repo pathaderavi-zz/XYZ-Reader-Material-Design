@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="com.android.support:palette-v7-25.3.0">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/6e8cd27157fc447ccffe3224d00ebb8e/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/6e8cd27157fc447ccffe3224d00ebb8e/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/2d9739d2510c3c7d13001f9d2c932fcd/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/2d9739d2510c3c7d13001f9d2c932fcd/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
